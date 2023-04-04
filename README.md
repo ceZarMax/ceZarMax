@@ -9,7 +9,7 @@
 
 ---
 
-### Bonjour et bienvenue sur mon GitHub  👋
+### Bonjour et bienvenue sur mon GitHub, ici, vous trouverez des fichiers README pour tout mes dossiers principaux et sous-dossiers(projets)👋
 
 - 🔭 Je travail actuellement sur mon Portfolio en React comprenant les librairies : React Three Fiber,ThreeJS,TailwindCSS et Framer Motion
 - 🌱 J'étudie actuellement à [l'IUT de Vélizy](https://www.iut-velizy-rambouillet.uvsq.fr/)
