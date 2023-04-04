@@ -14,7 +14,7 @@
 - 🔭 Je travail actuellement sur mon Portfolio en React comprenant les librairies : React Three Fiber,ThreeJS,TailwindCSS et Framer Motion
 - 🌱 J'étudie actuellement à [l'IUT de Vélizy](https://www.iut-velizy-rambouillet.uvsq.fr/)
 - 🖥️ Côté Cyber : 
-  - Je me forme personnellement en réalisant des formations, je réalise quelques [CTF](https://www.root-me.org/MaxAB) sur RootMe aussi.</br>
+  - Je me forme personnellement en suivant des [cours en ligne](https://www.udemy.com/course/hacking-ethique-le-cours-complet/), je réalise quelques [CTF](https://www.root-me.org/MaxAB) sur RootMe aussi.</br>
   - J'ai réalisé + de 60% des [CTF](https://store.steampowered.com/app/1341450/Yolo_Space_Hacker/) sur  Yolo : SpaceHacker
   - J'ai écris mon premier audit en équipe sur Mutillidae qui est une application web vulnérable conçue pour être utilisée comme plate-forme d'apprentissage pour les     tests de pénétration
   - J'inspire prochainement à réaliser le certificat [VirtualHackingLabs](https://www.virtualhackinglabs.com/beginner-advanced-lab/)
