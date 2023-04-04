@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="https://imgur.com/EIKkska.png" alt="Project logo"></a>
+</p>
 
-<!--
-**ceZarMax/ceZarMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Bonjour et bienvenue sur mon GitHub  👋
+
+- 🔭 Je travail actuellement sur mon Portfolio en React comprenant les librairies : React Three Fiber,ThreeJS,TailwindCSS et Framer Motion
+- 🌱 J'étudie actuellement à [l'IUT de Vélizy](https://www.iut-velizy-rambouillet.uvsq.fr/)
+- 🖥️ Côté Cyber : 
+  - Je me forme personnellement en réalisant des formations, je réalise quelques [CTF](https://www.root-me.org/MaxAB) sur RootMe aussi.</br>
+  - J'ai réalisé + de 60% des [CTF](https://store.steampowered.com/app/1341450/Yolo_Space_Hacker/) sur  Yolo : SpaceHacker
+  - J'ai écris mon premier audit en équipe sur Mutillidae qui est une application web vulnérable conçue pour être utilisée comme plate-forme d'apprentissage pour les     tests de pénétration
+  - J'inspire prochainement à réaliser le certificat [VirtualHackingLabs](https://www.virtualhackinglabs.com/beginner-advanced-lab/)
+- 🌐 Côté Système et Réseaux :
+  - Réalisation de différent réseaux locaux
+  - 🏗️Prochainement🏗️
+- 🔧 Mise à jour régulière 🔧
+</br>
+- 📫 Me contacter :  <a href="mailto:maxence.ab@gmail.com">ceZarMax</a>
+
+
+
