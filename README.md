@@ -23,7 +23,6 @@
   - 🏗️Prochainement🏗️
 - 🔧 Mise à jour régulière 🔧
 </br>
-- 📫 Me contacter :  <a href="mailto:maxence.ab@gmail.com">ceZarMax</a>
 
 
 
